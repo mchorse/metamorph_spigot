@@ -1,0 +1,9 @@
+name: Metamorph Plugin
+main: mchorse.metamorph.spigot.MetamorphPlugin
+version: 1.0
+api-version: 1.10
+author: McHorse
+commands:
+    morph:
+        description: Morph given player into given morph
+        usage: "Usage: /morph <player> <morph> [data_tag]"
